@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/manikanta20-01/Image-gallery-0001/static/css/main.4a1ece01.css",
+    "main.js": "/manikanta20-01/Image-gallery-0001/static/js/main.a8973906.js",
+    "static/js/787.2440c5ec.chunk.js": "/manikanta20-01/Image-gallery-0001/static/js/787.2440c5ec.chunk.js",
+    "index.html": "/manikanta20-01/Image-gallery-0001/index.html",
+    "main.4a1ece01.css.map": "/manikanta20-01/Image-gallery-0001/static/css/main.4a1ece01.css.map",
+    "main.a8973906.js.map": "/manikanta20-01/Image-gallery-0001/static/js/main.a8973906.js.map",
+    "787.2440c5ec.chunk.js.map": "/manikanta20-01/Image-gallery-0001/static/js/787.2440c5ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a1ece01.css",
+    "static/js/main.a8973906.js"
+  ]
+}
