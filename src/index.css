@@ -1,0 +1,31 @@
+.img {
+   margin: 10px;
+}
+
+.mainContainer {
+  background-color: black;
+  
+}
+.heading {
+  color: aqua;
+  
+}
+.submit-button {
+  height: 35px;
+  width: 80px;
+  background-color: greenyellow;
+  border-radius: 10px;
+}
+
+.input-ele {
+  height: 35px;
+  width: 160px;
+  border-radius: 60px;
+  margin-right: 5px;
+}
+
+.image-gallery {
+  margin: 10px;
+  border-radius: 15px;
+  border-color: rgb(150, 228, 228);
+}
